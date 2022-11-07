@@ -1,0 +1,42 @@
+body {
+    color: red;
+    margin: auto;
+    background-image: url(https://s3.amazonaws.com/cms.ipressroom.com/284/files/20214/Arrowhead+Stadium+Interior.JPG); background-size: 100%; 
+    background-repeat: no-repeat; background-attachment: fixed; 
+}
+h1 {
+    background-color: white;
+    font-family: Verdana;
+    font-size: 40px;
+    width: 50%;
+}
+
+h1:hover {
+    text-shadow: 0 0 5px #FF0000, 0 0 10px white;
+}
+
+h1.subheading{
+    font-size: 30px;
+}
+
+p{
+    background-color: white;
+    width: 50%;
+}
+
+a{
+    background-color: white;
+}
+
+img {
+    height: 40%;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
